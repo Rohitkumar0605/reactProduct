@@ -27,11 +27,12 @@
       padding:8px;
   }
   .dropbtn {
-    background-color: rgb(149, 178, 241);
+    background-color:#ff6200;
     color: white;
     padding: 16px;
     font-size: 16px;
     border: none;
+    margin-left:10px;
   }
   
   .dropdown {
@@ -68,6 +69,7 @@
   }
   .bt1{
       margin-left: 30px;
+      width: 95%;
   }
   .bt2{
     margin-left: 50px;

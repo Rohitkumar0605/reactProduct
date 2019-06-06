@@ -25,7 +25,8 @@ render() {
       <div>
         <Header />
         <button onClick={this.overview}><Link to ="/product" >Product-list</Link></button>
-        <button><Link to ="/home" >DashBoard</Link></button>
+        <button><Link to ="/recharts" >Analytics</Link></button>
+        <br/><br/>
          <div>
                   <Switch>
                      <Route path='/' component={Home} exact/>
